@@ -86,12 +86,12 @@
 ---
 <div align="center">
 <h3 align="center">⚡  Git Status ⚡ </h3>
-  <summary><b>🔎 Github Profile Summary</b></summary>
+  <b>🔎 Github Profile Summary</b>
 <p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KVKcodes&theme=aura_dark" alt="KVKcodes Profile Details" align = "center"/></p>
-  <summary><b>👨‍💻 Github Top Languages</b></summary>
+  <b>👨‍💻 Github Top Languages</b>
 <p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KVKcodes&theme=aura_dark" alt="KVKcodes" align = "center"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KVKcodes&theme=aura_dark" alt="KVKcodes" align = "center"/></p>
- <summary><b>🔥 Github Stats</b></summary>
+ <b>🔥 Github Stats</b>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KVKcodes&theme=aura_dark" alt="KVKcodes" /></p>
 <br>
 </div>
