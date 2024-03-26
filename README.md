@@ -2,7 +2,7 @@
 
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=40&duration=2500&pause=2000&color=B5F76C&center=true&vCenter=true&random=false&width=435&lines=Good+day!+%F0%9F%91%8B;This+is+KVK+Siddartha+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Passionate+developer+%F0%9F%92%AA;Philosophy+nerd+%F0%9F%A7%90;Cybersecurity+%F0%9F%95%B5%EF%B8%8F;Secret+wizard+%F0%9F%A7%99;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=35&duration=2500&pause=2000&color=B5F76C&center=true&vCenter=true&random=false&width=435&lines=Good+day!+%F0%9F%91%8B;This+is+KVK+Siddartha+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Passionate+developer+%F0%9F%92%AA;Philosophy+nerd+%F0%9F%A7%90;Cybersecurity+%F0%9F%95%B5%EF%B8%8F;Secret+wizard+%F0%9F%A7%99;" />
 </h1>
 
 <h3 align="center">🐱 Here to learn for the joy of it</h3>
