@@ -44,7 +44,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,django&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,django,flask&perline=6)](https://skillicons.dev)
 
   </div>
 </p>
