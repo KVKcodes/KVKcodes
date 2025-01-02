@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🌱 Currently learning **Juniper, Python, Hacking, Web Development, freelancing and many more**
+🌱 Currently learning **Astro, Hacking, Reverse Engineering and many more**
 
 💬 Let us talk about **Web Development, Python, Cybersecurity and Cats!**
 
@@ -20,69 +20,6 @@
 
  </div>
  
----
-  <h3 align="center">Languages</h3>
-  <div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,javascript,ts,html,css,latex,md&perline=7)](https://skillicons.dev)
-
-  </div>
-
-
-
-<h3 align="center">Frontend</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui&perline=6)](https://skillicons.dev)
-
-  </div>
-
-
-<h3 align="center">Backend</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,django,flask&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-
-<h3 align="center">Database</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-
-<h3 align="center">Cloud and Hosting</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=netlify,aws&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-<h3 align="center">VC/CI/CD</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-<h3 align="center">Tools and Utility </h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse,postman,bash,blender,unity,pr,ps,arduino&perline=5)](https://skillicons.dev)
-
-  </div>
-</p>
-
 ---
 <div align="center">
 <h3 align="center">⚡  Git Status ⚡ </h3>
