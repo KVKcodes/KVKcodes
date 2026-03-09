@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🌱 Currently learning **Astro, Hacking, Reverse Engineering and many more**
+🌱 Currently learning **Docker, Hacking, Reverse Engineering and many more**
 
 💬 Let us talk about **Web Development, Python, Cybersecurity and Cats!**
 
